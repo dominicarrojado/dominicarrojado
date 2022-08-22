@@ -34,6 +34,6 @@
 
 ### MJML
 
-[![MJML Email Framework Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=dominicarrojado&repo=mjml-email-framework-boilerplate&title_color=ffffff&text_color=ffffff&icon_color=999999&bg_color=2c2c34&border_radius=0)](https://github.com/dominicarrojado/mjml-email-framework-boilerplate)
-
 [![MJML Sample Email Template](https://github-readme-stats.vercel.app/api/pin/?username=dominicarrojado&repo=mjml-sample-edm&title_color=ffffff&text_color=ffffff&icon_color=999999&bg_color=2c2c34&border_radius=0)](https://github.com/dominicarrojado/mjml-sample-edm)
+
+[![MJML Email Framework Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=dominicarrojado&repo=mjml-email-framework-boilerplate&title_color=ffffff&text_color=ffffff&icon_color=999999&bg_color=2c2c34&border_radius=0)](https://github.com/dominicarrojado/mjml-email-framework-boilerplate)
